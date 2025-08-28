@@ -1,4 +1,4 @@
-or the "Project Summary (Short Details of Concept)" field:
+"Project Summary (Short Details of Concept)" field:
 
 Saarathi: Your AI Future Self is a next-generation AI life mentor designed to combat the immense pressure and lack of personalized guidance faced by today's youth. It operates on a revolutionary system that combines a powerful backend planning engine with a deeply personal avatar of the user's own successful future self. Through interactive video messages and chats, the avatar delivers a complete, adaptive daily plan for academics, health, and mindset, turning a logical to-do list into an inspiring daily conversation and providing both the strategy and motivation needed to achieve ambitious goals.
 
